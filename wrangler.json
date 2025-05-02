@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "spring-frog-4143",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e753e5fd-4add-4457-ab6f-60588654e48f",
+      "database_name": "spring-frog-4143-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
